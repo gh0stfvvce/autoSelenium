@@ -3,7 +3,7 @@ from selenium import webdriver
 # URL de la página con el campo de comentarios
 url_comentarios = "https://www.ejemplo.com/comentarios"
 
-# Script malicioso para el ataque XSS (¡solo con fines educativos!)
+# Script malicioso para el ataque XSS
 script_xss = "<script>alert('¡don't hack ur mother!');</script>"
 
 # Inicializa el controlador del navegador (en este caso, Firefox)
