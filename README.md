@@ -12,3 +12,4 @@ Descarga del Controlador de Navegador:
     GeckoDriver para Firefox
 
 Coloca el controlador en la carpeta de tu navegador.
+Recordad dar permisos de ejecución a los scripts !!
